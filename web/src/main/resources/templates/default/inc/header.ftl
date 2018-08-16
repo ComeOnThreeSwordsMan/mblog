@@ -62,7 +62,8 @@
                     <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="${base}/">
-                    <img src="${base}/theme/default/images/logo.png"/>
+                    <#--<img src="${base}/theme/default/images/logo.png"/>-->
+                        <img src="http://cdn.aixifan.com/acfun-pc/2.4.9/img/logo.png"/>
                 </a>
             </div>
             <div class="collapse navbar-collapse">

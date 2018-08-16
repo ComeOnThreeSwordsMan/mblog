@@ -39,5 +39,7 @@ ${site_metas}
 <script type="text/javascript" src="${base}/theme/default/js/sea.config.js"></script>
 
 <!-- Favicons -->
-<link rel="apple-touch-icon-precomposed" href="http://mtons.com/dist/images/logo.png"/>
-<link rel="shortcut icon" href="http://mtons.com/dist/images/logo.png"/>
+<#--<link rel="apple-touch-icon-precomposed" href="http://mtons.com/dist/images/logo.png"/>-->
+<#--<link rel="shortcut icon" href="http://mtons.com/dist/images/logo.png"/>-->
+<link rel="apple-touch-icon-precomposed" href="http://cdn.aixifan.com/ico/favicon.ico"/>
+<link rel="shortcut icon" href="http://cdn.aixifan.com/ico/favicon.ico"/>
