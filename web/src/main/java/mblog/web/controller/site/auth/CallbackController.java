@@ -56,8 +56,8 @@ public class CallbackController extends BaseController {
 
     /**
      * 跳转到微博进行授权
-     * @param request
-     * @param response
+     * @param request q]请求
+     * @param response 响应
      * @author A蛋壳  2015年9月12日 下午3:05:54
      */
     @RequestMapping("/call_weibo")
@@ -79,8 +79,8 @@ public class CallbackController extends BaseController {
     /**
      * 微博回调
      *
-     * @param code
-     * @param request
+     * @param code 代码
+     * @param request 请求
      * @return
      * @throws Exception
      */
@@ -125,8 +125,8 @@ public class CallbackController extends BaseController {
 
     /**
      * 跳转到QQ互联授权界面
-     * @param request
-     * @param response
+     * @param request  请求
+     * @param response 响应
      * @author A蛋壳  2015年9月12日 下午3:28:21
      */
     @RequestMapping("/call_qq")

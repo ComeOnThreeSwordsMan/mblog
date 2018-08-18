@@ -1,5 +1,5 @@
 server:
-    port: 8080
+    port: 80
 spring:
     devtools:
         enabled: true
@@ -55,5 +55,8 @@ spring:
 site:
     theme: card
     store:
-      root: d:/data/mblog/
+#    本机配置文件路径  上传时windows路径
+#      root: d:/data/mblog/
+#上传时 Linux配置  路径配置
+      root: /data/mblog/
       size: 2
