@@ -1,3 +1,5 @@
+<#-- @ftlroot "../.." -->
+<#--<#include "/default/utils/ui.ftl"/>-->
 <#include "/default/utils/ui.ftl"/>
 <@layout channel.name>
     <div class="row streams">

@@ -1,3 +1,4 @@
+<#-- @ftlroot "../../" -->
 <#include "/default/utils/ui.ftl"/>
 
 <#assign title = view.title + ' - ' + site_name />

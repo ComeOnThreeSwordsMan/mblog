@@ -1,6 +1,7 @@
+<#-- @ftlroot "../../" -->
 <#include "/default/utils/ui.ftl"/>
 
-<@layout "通知">
+< @layout "通知">
 <div class="row users-show streams">
     <div class="col-xs-12 col-md-3 side-left">
         <#include "/default/user/left.ftl"/>

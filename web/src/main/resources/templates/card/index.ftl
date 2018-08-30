@@ -1,3 +1,4 @@
+<#-- @ftlroot ".." -->
 <#include "/default/utils/ui.ftl"/>
 <#assign topId = 1 />
 

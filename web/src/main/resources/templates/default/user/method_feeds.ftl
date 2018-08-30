@@ -1,3 +1,4 @@
+<#-- @ftlroot "../../" -->
 <#include "/default/utils/ui.ftl"/>
 
 <@layout "我的主页">

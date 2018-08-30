@@ -1,6 +1,7 @@
+<#-- @ftlroot "../../" -->
 <#include "/default/utils/ui.ftl"/>
 
-<@layout "我的喜欢">
+< @layout "我的喜欢">
 <div class="row users-show">
     <div class="col-xs-12 col-md-3 side-left">
 		<#include "/default/user/left.ftl"/>

@@ -1,5 +1,6 @@
+<#-- @ftlroot "../../" -->
 <#include "/default/utils/ui.ftl"/>
-<@layout "修改用户信息">
+< @layout "修改用户信息">
 
 <div class="panel panel-default stacked">
 	<div class="panel-heading">

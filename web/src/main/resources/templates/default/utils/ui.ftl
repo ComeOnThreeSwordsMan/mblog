@@ -1,4 +1,5 @@
 <#-- Layout -->
+<#-- @ftlroot "../.." -->
 <#macro layout title keywords description>
 <!DOCTYPE html>
 <html lang="zh-CN">
