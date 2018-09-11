@@ -36,6 +36,14 @@
                     <div class="block-contents">
                         <p class="tit">${row.title?html}
                         </p>
+                        <div class="meta inline-block">
+                            <a class="author" href="${base}/users/${row.author.id}">
+                                ${row.author.name}
+                            </a>
+                         <abbr class="timeago">${row.created}</abbr>
+                            ⋅
+                            ${row.views} 阅读
+                        </div>
                     </div>
                 </div>
             </div>
